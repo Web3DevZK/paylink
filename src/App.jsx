@@ -52,12 +52,12 @@ const App = () => {
               )
           )}
           <a
-            href="https://github.com/dlcastillop/paylink"
+            href="https://github.com/Web3DevZK/paylink"
             target="_blank"
             className="paylink-link my-3 text-decoration-none"
           >
             <sub>
-              Powered by <b>PayLink</b>
+              Powered by <b>ZKLink</b>
             </sub>
           </a>
         </section>
