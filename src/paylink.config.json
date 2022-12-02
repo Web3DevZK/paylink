@@ -8,7 +8,6 @@
     "hero": "./images/ZKpic.png"
   },
 
-
   "Social": [
     { "label": "Email", "value": "bx-envelope", "link": "mailto:zul.h.kazani@outlook.com" },
     { "label": "Link", "value": "bx-link", "link": "https://zkazani.eth.limo/" },
@@ -19,7 +18,6 @@
     { "label": "YouTube", "value": "bxl-youtube", "link": "" }
     
   ],
-
 
   "Payments": [
     {
