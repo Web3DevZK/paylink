@@ -57,7 +57,7 @@ const App = () => {
             className="paylink-link my-3 text-decoration-none"
           >
             <sub>
-              Powered by <b>ZKLink</b>
+              Powered by <b>Web3DevZK</b>
             </sub>
           </a>
         </section>
