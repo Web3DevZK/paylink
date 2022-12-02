@@ -2,21 +2,31 @@
   "theme": "minimalist-dark-theme",
 
   "properties": {
-    "name": "Zul H. Kazani",
-    "description": "Innovation Evangelist, Entrepreneur, Life-Long Learner",
-    "alt": "Zul's Pic",
-    "hero": "./images/ZKpic.png"
+    "name": "Daniel Castillo",
+    "description": "Frontend web developer and tireless creator",
+    "alt": "Photo of Daniel Castillo",
+    "hero": "./images/daniel-castillo.png"
   },
 
   "Social": [
-    { "label": "Email", "value": "bx-envelope", "link": "mailto:zul.h.kazani@outlook.com" },
-    { "label": "Link", "value": "bx-link", "link": "https://zkazani.eth.limo/" },
-    { "label": "GitHub", "value": "bxl-github", "link": "https://github.com/Web3DevZK" },
-    { "label": "Twitter", "value": "bxl-twitter", "link": "https://twitter.com/@ZkWeb3dev" },
-    { "label": "LinkedIn", "value": "bxl-linkedin", "link": "https://www.linkedin.com/in/zul-kazani-89702114" },
+    { "label": "Email", "value": "bx-envelope", "link": "mailto:dlcastillo3015@gmail.com" },
+    { "label": "Link", "value": "bx-link", "link": "https://dlcastillop.vercel.app" },
+    { "label": "GitHub", "value": "bxl-github", "link": "https://github.com/dlcastillop" },
+    { "label": "Twitter", "value": "bxl-twitter", "link": "https://twitter.com/dlcastillop" },
+    { "label": "LinkedIn", "value": "bxl-linkedin", "link": "https://linkedin.com/in/dlcastillop" },
+    { "label": "Instagram", "value": "bxl-instagram", "link": "https://instagram.com/dlcastillop" },
+    { "label": "Discord", "value": "bxl-discord", "link": "" },
+    { "label": "Facebook", "value": "bxl-facebook", "link": "" },
+    { "label": "Medium", "value": "bxl-medium", "link": "" },
+    { "label": "Pinterest", "value": "bxl-pinterest", "link": "" },
+    { "label": "Snapchat", "value": "bxl-snapchat", "link": "" },
+    { "label": "Telegram", "value": "bxl-telegram", "link": "" },
+    { "label": "TikTok", "value": "bxl-tiktok", "link": "" },
+    { "label": "Twitch", "value": "bxl-twitch", "link": "" },
+    { "label": "Vimeo", "value": "bxl-vimeo", "link": "" },
     { "label": "WhatsApp", "value": "bxl-whatsapp", "link": "" },
-    { "label": "YouTube", "value": "bxl-youtube", "link": "" }
-    
+    { "label": "YouTube", "value": "bxl-youtube", "link": "" },
+    { "label": "Product Hunt", "value": "bxl-product-hunt", "link": "" }
   ],
 
   "Payments": [
@@ -27,10 +37,34 @@
       "img": "./images/payments/btc.svg"
     },
     {
+      "id": "busd",
+      "label": "BinanceUSD",
+      "value": "",
+      "img": "./images/payments/busd.svg"
+    },
+    {
+      "id": "matic",
+      "label": "Matic",
+      "value": "",
+      "img": "./images/payments/matic.svg"
+    },
+    {
+      "id": "doge",
+      "label": "DogeCoin",
+      "value": "",
+      "img": "./images/payments/doge.svg"
+    },
+    {
       "id": "eth",
       "label": "Ethereum",
       "value": "0x59C864f658caD68A19a97499755080c056079988",
       "img": "./images/payments/eth.svg"
+    },
+    {
+      "id": "ltc",
+      "label": "Litecoin",
+      "value": "",
+      "img": "./images/payments/ltc.svg"
     },
     {
       "id": "paypal",
@@ -39,8 +73,44 @@
       "img": "./images/payments/paypal.svg"
     },
     {
+      "id": "usdt",
+      "label": "USDT",
+      "value": "",
+      "img": "./images/payments/usdt.svg"
+    },
+    {
+      "id": "qvapay",
+      "label": "QvaPay",
+      "value": "https://qvapay.com/payme/dlcastillop",
+      "img": "./images/payments/qvapay.svg"
+    },
+    {
+      "id": "sol",
+      "label": "Solana",
+      "value": "",
+      "img": "./images/payments/sol.svg"
+    },
+    {
+      "id": "ada",
+      "label": "ADA",
+      "value": "",
+      "img": "./images/payments/ada.svg"
+    },
+    {
+      "id": "trx",
+      "label": "Tron",
+      "value": "",
+      "img": "./images/payments/trx.svg"
+    },
+    {
+      "id": "xrp",
+      "label": "XRP",
+      "value": "",
+      "img": "./images/payments/xrp.svg"
+    },
+    {
       "id": "card",
-      "label": "Credit Card",
+      "label": "Card",
       "value": "",
       "img": "./images/payments/card.svg"
     }
